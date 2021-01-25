@@ -1,2 +1,2 @@
 def some_function():
-    print('some output ')
+    print('some output 2')
